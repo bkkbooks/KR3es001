@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3es001/v1
 canonical_location: https://kanripo.org/bkk/KR3es001/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫學啟源
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3es001_000.yaml, hash: 'sha256:627ec317c97f66d3dae2dfe2be9cd393aa35be896fb217d7bbfb515a2237eb23'}
-  - {seq: 1, filename: KR3es001_001.yaml, hash: 'sha256:afca3f4fc08c1100222a75bafa984c4a0807115456898c127b8381e0eb8c0508'}
-  - {seq: 2, filename: KR3es001_002.yaml, hash: 'sha256:480648bcb3eba7cbef8434a3c5787b0ad76267b7e5ae76ea9a87ba89cc5c7fca'}
-  - {seq: 3, filename: KR3es001_003.yaml, hash: 'sha256:3cd4abaa2cba96131a9ac47497ece560aa25b72916f99e203e2542574d6ef399'}
+  - {seq: 0, filename: KR3es001_000.yaml, hash: 'sha256:fedd437297021a83c91733bef863b9ce5c553a9ed97f6487e9fceb67cc10c95c'}
+  - {seq: 1, filename: KR3es001_001.yaml, hash: 'sha256:5b2fb79ecdfb2e721e8535ddc976fb9c4e2b512b1f01949f2442967cdd5fba4a'}
+  - {seq: 2, filename: KR3es001_002.yaml, hash: 'sha256:b536bf9fc4de24e002ab9d7a6a6b8fb0d95165f7d08a0555e0acbcfb41e3e12f'}
+  - {seq: 3, filename: KR3es001_003.yaml, hash: 'sha256:779903602fc62560574cbf6bad1e416bae97bf64ef405fd9dedbea44b74f84d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3es001_000.markers.yaml, hash: 'sha256:ac2a87fda9549da562b2c8dc3573b96f4cdc5e72d1a1849ff287a77d129e97ed'}
-  - {seq: 1, role: markers, filename: assets/KR3es001_001.markers.yaml, hash: 'sha256:46bbe9aa38d30297f03d51fabf78745748b6491dde600fde54004e2076a00f3d'}
-  - {seq: 2, role: markers, filename: assets/KR3es001_002.markers.yaml, hash: 'sha256:88084a9c1f88852d5167596a7f695a5b31c0af14c0c0b8789dee434e1f0776c3'}
-  - {seq: 3, role: markers, filename: assets/KR3es001_003.markers.yaml, hash: 'sha256:87b933802347e4c39621020cd01a3c69049f4c4d17a15ceba0ea6da6fb4cb0e8'}
+  - {seq: 0, role: markers, filename: assets/KR3es001_000.markers.yaml, hash: 'sha256:18179e43d2c437f74c05a25a4e3b4780c516631c6a0674cffc742567b8ad6472'}
+  - {seq: 1, role: markers, filename: assets/KR3es001_001.markers.yaml, hash: 'sha256:e9fe2c1d6d49139cd3d706915daed32f4446c3be8183d14424e48bf54a7a58c5'}
+  - {seq: 2, role: markers, filename: assets/KR3es001_002.markers.yaml, hash: 'sha256:95a3632e11c7aab8a6c6eb4c4d19e775be2897fd0538a1a4789cc5a6d8b11e6f'}
+  - {seq: 3, role: markers, filename: assets/KR3es001_003.markers.yaml, hash: 'sha256:3e2bbe3a187e3103c78099cb64ef3e34eba6d061eecfcdb3c91d8caf4e9fb29b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1617,4 +1617,7 @@ table_of_contents:
   label: 十九五行制方生克法
   type: section
   level: 3
-hash: sha256:36190e07bac3e123ed784467e2ab4f17a8e85154f94bf7713c03e4d0ef571b1f
+hash: sha256:4addb48bcf8d347e0b9624bc6e888e8f610e63fa1d4ecd21a53da6e928aadbd5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
