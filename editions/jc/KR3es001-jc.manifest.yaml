@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3es001_000-jc.yaml, hash: 'sha256:627ec317c97f66d3dae2dfe2be9cd393aa35be896fb217d7bbfb515a2237eb23'}
+  - {seq: 0, filename: KR3es001_000-jc.yaml, hash: 'sha256:65bf36c2146a8800520e36dd32b342c76318d5fc194b8d2173054339026b186a'}
   - {seq: 1, filename: KR3es001_001-jc.yaml, hash: 'sha256:afca3f4fc08c1100222a75bafa984c4a0807115456898c127b8381e0eb8c0508'}
   - {seq: 2, filename: KR3es001_002-jc.yaml, hash: 'sha256:480648bcb3eba7cbef8434a3c5787b0ad76267b7e5ae76ea9a87ba89cc5c7fca'}
   - {seq: 3, filename: KR3es001_003-jc.yaml, hash: 'sha256:3cd4abaa2cba96131a9ac47497ece560aa25b72916f99e203e2542574d6ef399'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3es001_000-jc.markers.yaml, hash: 'sha256:b66d46dc392409913a35ebffbf99faa000c862bc973ddc6c0ef1946c3730d2cb'}
+  - {seq: 0, role: markers, filename: assets/KR3es001_000-jc.markers.yaml, hash: 'sha256:e5fc1f360838535af6dee4b789f4634166e7478c480cd272a3e6d2a496fc8ae2'}
   - {seq: 1, role: markers, filename: assets/KR3es001_001-jc.markers.yaml, hash: 'sha256:f9a6ffc874b9346a6b4242834aaea196e3ec08fd6348776c80a2fb6855191141'}
   - {seq: 2, role: markers, filename: assets/KR3es001_002-jc.markers.yaml, hash: 'sha256:4828cfd4c19fa5dfd056e8b7e7ad673e3c4ae3c476720cf5450c8a5467fc5fc5'}
   - {seq: 3, role: markers, filename: assets/KR3es001_003-jc.markers.yaml, hash: 'sha256:90998302a59fcd82cebf3e4210f5b6184d0925104a7c96641d68849f5cbdfa17'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3es001_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 390
   label: 張序
@@ -1617,4 +1617,4 @@ table_of_contents:
   label: 十九五行制方生克法
   type: section
   level: 3
-hash: sha256:271a7658d00f8d8bd81d6c11a466afe70c17083b74028e0c37256eb18c409693
+hash: sha256:05d0ef5290a62adb546a173f5887a31e7b3d57363b7b3548597c323cc2c9810b
